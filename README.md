@@ -109,17 +109,11 @@
 ---
 ## 📫 Conecta conmigo
 
-<p align="center" >
+<p align="center">
   <a href="https://www.linkedin.com/in/edgararnau" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
-    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:edgararnau@email.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
-    <img alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" />
-  </a>
-  <a href="https://tusitio.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
-    <img alt="Portafolio" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="40" height="40" />
-  </a>
-  <a href="https://github.com/EdgarArnau" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
-    <img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" height="40" />
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
