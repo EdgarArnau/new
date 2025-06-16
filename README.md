@@ -11,6 +11,14 @@
   🚀 Apasionado por el diseño, la innovación y el aprendizaje continuo
 </p>
 
+<!-- Video pequeño y centrado -->
+<div align="center" style="margin: 20px 0;">
+  <video width="320" height="180" autoplay muted loop style="border-radius: 10px;">
+    <source src="ruta/a/tu/video.mp4" type="video/mp4" />
+    Tu navegador no soporta video.
+  </video>
+</div>
+
 ---
 
 ## 🧠 Sobre mí
@@ -72,6 +80,15 @@
 
 ---
 
+## 🌍 Idiomas
+
+| Idioma   | Nivel              | Bandera |
+|----------|--------------------|---------|
+| Castellano | Nativo           | 🇪🇸       |
+| Inglés    | Full proficiency   | 🇬🇧       |
+
+---
+
 ## 🧩 Proyectos destacados
 
 | Nombre | Descripción | Link |
@@ -94,14 +111,16 @@
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edgararnau" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-EdgarArnau-blue?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/edgararnau" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-EdgarArnau-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:edgararnau@email.com">
-    <img src="https://img.shields.io/badge/Email-edgararnau@email.com-red?style=flat&logo=gmail" />
+  &nbsp;
+  <a href="mailto:edgararnau@email.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-edgararnau@email.com-red?style=flat&logo=gmail" alt="Email" />
   </a>
-  <a href="https://tusitio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-Ver_sitio-9cf?style=flat&logo=google-chrome" />
+  &nbsp;
+  <a href="https://tusitio.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portafolio-Ver_sitio-9cf?style=flat&logo=google-chrome" alt="Portafolio" />
   </a>
 </p>
 
